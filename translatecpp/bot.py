@@ -11,7 +11,6 @@ from translator import translate_cpp, translate_variables
 import os
 from config import BOT_TOKEN
 
-# Define conversation states
 WAITING_FOR_FILENAME = 1
 WAITING_FOR_FILE = 2
 
